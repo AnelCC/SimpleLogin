@@ -39,7 +39,7 @@ com.anelcc.SimpleLogin      # Root Package
 
 <a href="https://github.com/AnelCC/SimpleLogin/raw/main/image/app-release.apk"><img src="https://locations.massageenvy.com/images/google-play-badge.png" width="200"/></a>
 
-<img src="https://github.com/AnelCC/SimpleLogin/blob/main/image/dashboard.jpg" width="180" height="420"/> <img src="https://github.com/AnelCC/SimpleLogin/blob/main/image/login.jpg" width="180" height="420"/><img src="https://github.com/AnelCC/SimpleLogin/blob/main/image/register.jpg" width="180" height="420"/>
+<img src="https://github.com/AnelCC/SimpleLogin/blob/main/image/dashboard.jpg" width="180" height="420"/> <img src="https://github.com/AnelCC/SimpleLogin/blob/main/image/login.jpg" width="180" height="420"/> <img src="https://github.com/AnelCC/SimpleLogin/blob/main/image/register.jpg" width="180" height="420"/>
 
 
 
