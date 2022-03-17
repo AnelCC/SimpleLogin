@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "163906310165",
+    "project_id": "simplelogin-2557d",
+    "storage_bucket": "simplelogin-2557d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163906310165:android:0cdc31cdf340a81903fe1c",
+        "android_client_info": {
+          "package_name": "com.anelcc.simplelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163906310165-eoejrkn5ill33rp683lk88hmgqorfrns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCf_s3gxaYevjDkHypRNJZWj3F0hJIxUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163906310165-eoejrkn5ill33rp683lk88hmgqorfrns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
